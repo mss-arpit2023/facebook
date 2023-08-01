@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 we are in master branch
 
 vcchfcli jvhgfutdcl j,g hij
+=======
+i am in dev brach
+
+vcchfcli jvhgfutdcl j,
+g hj
+>>>>>>> development
